@@ -2,4 +2,4 @@
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=innovator-zero)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=innovatorzero.visitor&left_color=green&right_color=red)
+[![HitCount](https://hits.dwyl.com/innovator-zero/innovator-zero.svg?style=flat-square)](http://hits.dwyl.com/innovator-zero/innovator-zero)
