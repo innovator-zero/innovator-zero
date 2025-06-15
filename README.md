@@ -3,7 +3,7 @@
 ### I am Yuxiang Lu 陆宇翔.
 
 #### About me
-- I am currently a MEng. candidate at Shanghai Jiao Tong University.
+- I am an incoming PhD student at the University of Hong Kong.
 - [Homepage](https://innovator-zero.github.io/)
-- [Email](mailto:luyuxiang_2018@sjtu.edu.cn)
+- [Email](mailto:luyuxiang2016@gmail.com)
 - [Google scholar](https://scholar.google.com/citations?user=7m-TOp8AAAAJ)
